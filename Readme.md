@@ -1,6 +1,8 @@
 ## Wolf-Sec Vulnerability Scanning and Reporting Tool 
 
-<img src="path/to/your/image.png" alt="WEB VULNERABILITY TOOL" width="300" height="200">
+   ![Wolf (1)](https://github.com/user-attachments/assets/39b54d0b-a9c9-4e04-95de-fba361a9d417)
+
+
 
 
 ## Introduction
