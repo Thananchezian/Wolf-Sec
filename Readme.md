@@ -1,4 +1,8 @@
 ## Wolf-Sec Vulnerability Scanning and Reporting Tool 
+
+<img src="path/to/your/image.png" alt="WEB VULNERABILITY TOOL" width="300" height="200">
+
+
 ## Introduction
 WolfSec is a comprehensive web vulnerability scanner designed to identify and analyze common security issues within web applications. This tool is particularly useful for security professionals and developers seeking to enhance the security posture of their web applications. By evaluating various aspects such as security headers, potential vulnerabilities, and open ports, WolfSec provides a detailed overview of a web application's security landscape.
 ## Features
