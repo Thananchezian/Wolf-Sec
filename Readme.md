@@ -1,4 +1,4 @@
-# Wolf-Sec Vulnerability Scanning and Reporting Tool
+## Wolf-Sec Vulnerability Scanning and Reporting Tool 
 ## Introduction
 WolfSec is a comprehensive web vulnerability scanner designed to identify and analyze common security issues within web applications. This tool is particularly useful for security professionals and developers seeking to enhance the security posture of their web applications. By evaluating various aspects such as security headers, potential vulnerabilities, and open ports, WolfSec provides a detailed overview of a web application's security landscape.
 ## Features
@@ -15,20 +15,24 @@ To run WolfSec, ensure you have the following:
 
 * Python 3.x
 * Required libraries:
-    1. art
-    2. termcolor
-    3. requests
-    4. beautifulsoup4
+    * art
+    * termcolor
+    * requests
+    * beautifulsoup4
+
 You can install required libraries using pip :
+
 pip install art termcolor requests beautifulsoup4
 ## Installation and Useage 
-1. Clone or Download the Repository: Obtain the script from the repository.
+1. Clone or Download the Repository :  Obtain the script from the repository.
 
-2. Navigate to the Directory: Open a terminal and change to the directory containing the script.
+2. Navigate to the Directory :  Open a terminal and change to the directory containing the script.
 
-3. Run the Scanner: Execute the script using the following command:
-python wolfsec.py
-4. Enter the target web URL when prompted (e.g., http://example.com)
+3. Run the Scanner by Executing the script using the following command:
+
+    * python wolfsec.py
+
+5. Enter the target web URL when prompted (e.g., http://example.com)
 ## Output
 The scanner will output findings to the terminal and log them into a file named scanner.log. Additionally, a report named vulnerability_report.txt will be generated, summarizing all findings related to the scanned URL.
 
