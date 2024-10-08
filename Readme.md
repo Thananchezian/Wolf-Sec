@@ -26,9 +26,9 @@ To run WolfSec, ensure you have the following:
     * requests
     * beautifulsoup4
 
-You can install required libraries using pip :
+You can install required libraries from requirements file using pip :
 
-pip install art termcolor requests beautifulsoup4
+pip install -r requirements.txt
 ## Installation and Useage 
 1. Clone or Download the Repository :  Obtain the script from the repository.
 
